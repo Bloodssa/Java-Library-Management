@@ -12,8 +12,6 @@ This is a simple console-based Library Management System implemented in Java. It
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Flowchart](#flowchart)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
